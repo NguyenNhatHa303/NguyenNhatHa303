@@ -6,8 +6,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyennhatha303)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:scarlettjohanson2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyennhatha303/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![Portfolio](https://img.shields.io/badge/RCare+-Live_Demo-4ECDC4?style=for-the-badge&logo=netlify&logoColor=white)](https://rcare-plus-test.netlify.app)
 
 </div>
@@ -100,11 +100,23 @@ Official landing page for HIVNS, a non-profit initiative advancing healthcare sy
 
 <br/>
 
+## 💬 Quote of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+<br/>
+
 <div align="center">
 
 ### ⚡ Passionate about clean UI design, structured workflows, and translating complex healthcare data into intuitive user experiences!
 
-📍 Ho Chi Minh City, Vietnam &nbsp;•&nbsp; 🌐 [in/nguyennhatha303](https://linkedin.com/in/nguyennhatha303)
+📍 Ho Chi Minh City, Vietnam &nbsp;•&nbsp; 🌐 [in/nguyennhatha303](https://www.linkedin.com/in/nguyennhatha303/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=NguyenNhatHa303&color=4ECDC4&style=for-the-badge&label=Profile+Views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,100:FF6B6B&height=100&section=footer" width="100%"/>
 
