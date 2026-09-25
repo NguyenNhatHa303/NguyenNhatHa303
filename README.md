@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&section=header&text=Hi%20there,%20I'm%20Nguyen%20Nhat%20Ha%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20Engineer%20%7C%20Business%20Analyst%20%7C%20UI%2FUX%20Audit&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=4ECDC4&center=true&vCenter=true&width=600&lines=Turning+messy+healthcare+data+into+clean+UX;Business+Analyst+%7C+QC+%7C+Healthcare+Data+%26+AI;Building+RCare%2B+and+HIVNS.org+one+commit+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=4ECDC4&center=true&vCenter=true&width=600&lines=Business+Analyst+%7C+Information+Systems+Engineer;Bridging+business+needs+%26+technical+solutions;From+requirements+to+UML+diagrams+to+clean+UX" alt="Typing SVG" />
 
 <br/>
 
