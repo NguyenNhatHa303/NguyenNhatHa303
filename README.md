@@ -59,7 +59,12 @@
 
 A responsive web app for accessible PrEP treatment, secure two-step authentication, confidential lab records, and primary care provider management.
 
-`React` `TypeScript` `Material UI` `Vite` `Netlify`
+- **Frontend:** React 18, TypeScript, Vite (HMR)
+- **UI/UX:** Material UI (MUI v5), responsive breakpoints, Figma-based design
+- **Routing:** React Router DOM v6 (nested layouts, protected routes)
+- **Healthcare Data:** Lab results & vitals, insurance/copay assistance, PCP records, ICD-10 mapping
+- **Security:** Two-step OTP verification with smart auto-focus input
+- **Deployment:** Git/GitHub → Netlify CI/CD (auto-deploy from `main`)
 
 🔗 [Live Demo](https://rcare-plus-test.netlify.app)
 
