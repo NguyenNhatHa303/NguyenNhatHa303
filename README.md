@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&section=header&text=Hi%20there,%20I'm%20Nguyen%20Nhat%20Ha%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20Engineer%20%7C%20Business%20Analyst%20%7C%20UI%2FUX%20Audit&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=4ECDC4&center=true&vCenter=true&width=600&lines=Turning+messy+healthcare+data+into+clean+UX;Business+Analyst+%7C+QC+%7C+Healthcare+Data+%26+AI;Building+RCare%2B+and+Jobbod+one+commit+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=4ECDC4&center=true&vCenter=true&width=600&lines=Turning+messy+healthcare+data+into+clean+UX;Business+Analyst+%7C+QC+%7C+Healthcare+Data+%26+AI;Building+RCare%2B+and+HIVNS.org+one+commit+at+a+time" alt="Typing SVG" />
 
 <br/>
 
@@ -33,16 +33,12 @@
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Material UI](https://img.shields.io/badge/-Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,react,tailwind,vite,materialui,python,mysql,figma,jira,git,github,netlify,vscode&theme=dark" />
 
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<br/><br/>
+
+![Radix UI](https://img.shields.io/badge/-Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 </div>
 
@@ -71,14 +67,19 @@ A responsive web app for accessible PrEP treatment, secure two-step authenticati
 </td>
 <td width="50%" valign="top">
 
-### 🤝 Jobbod
-**Student Teammate Matching Platform**
+### 🌐 HIVNS.org
+**Health Information Vietnam — Official Landing Page**
 
-An AI-powered platform that matches students for academic projects and competitions based on complementary skills, using a chat-based onboarding flow.
+Official landing page for HIVNS, a non-profit initiative advancing healthcare systems, clinical data standardization, and ethical AI for underserved communities.
 
-`React` `Vite` `Tailwind CSS`
+- **Frontend:** React 18 (TSX), TypeScript, Vite (HMR)
+- **Styling:** Tailwind CSS with custom keyframe animations
+- **UI Primitives:** Radix UI (accessible, unstyled components)
+- **Backend:** Supabase JS Client (contact forms, cloud workflows)
+- **Highlights:** Infinite sponsor logo marquee, modular section architecture, mobile-first accessibility
+- **Tooling:** npm, Git, VS Code
 
-🔗 [Live Demo](https://jobbod-app-test.netlify.app)
+🔗 [HIVNS.org](https://hivns.org/)
 
 </td>
 </tr>
